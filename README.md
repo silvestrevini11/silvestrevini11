@@ -1,10 +1,14 @@
-# 👨‍💻​ Vinicius Silvestre
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=Bem%20vindo!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=32&rotate=0&stroke=-&strokeWidth=0&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
 
 **`Desenvolvedor FullStack`**
+
+# 👨‍💻​ Vinicius Silvestre
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/vinicius-brito-silvestre-19919241b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+</a>
   <a href="https://www.instagram.com/silvestrevini11_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
@@ -73,7 +77,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 />
 </div>
-
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
 
 <br/>
 <br/>
