@@ -1,7 +1,25 @@
 # 👨‍💻​ Vinicius Silvestre
 
 **`Desenvolvedor FullStack`**
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/vinicius-brito-silvestre-19919241b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/silvestrevini11_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#search/viniciusbritosilvestre88%40gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
+<h3 data-importer="text" align="center">Um pouco sobre minha pessoa</h3>
+
+###
+
+<p data-importer="text" align="left">Tenho 17 anos e estou construindo minha jornada na programação, desenvolvendo projetos e aprimorando minhas habilidades em desenvolvimento web, bancos de dados e versionamento de código.<br><br>Mais do que escrever código, acredito que cada desafio é uma oportunidade de crescer. Minha inspiração vem da fé em Cristo, buscando viver com propósito, excelência e integridade em tudo o que faço.<br><br>"Tudo quanto fizerem, façam de todo o coração, como para o Senhor e não para os homens." — Colossenses 3:23</p>
+
+###
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -38,28 +56,24 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=silvestrevini11&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvestrevini11&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="VsCode" 
+    title="VsCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+/>
+</div>
 
-</p>
+
+<br/>
+<br/>
